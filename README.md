@@ -92,7 +92,7 @@ The dataset is now:
 
 ## Author
 
-GitHub: YourGitHubUsername
+GitHub: bhawna402
 Project: Titanic Data Cleaning Assignment
 
 ---
@@ -100,3 +100,14 @@ Project: Titanic Data Cleaning Assignment
 ## Conclusion
 
 This project demonstrates essential data preprocessing techniques required in data science workflows, including handling missing values, encoding categorical data, normalization, and data preparation for machine learning.
+
+ ---
+ ## Dataset Source
+
+The dataset used in this project is the Titanic dataset obtained from Kaggle.
+
+## Reference:
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+This dataset contains passenger information such as age, gender, passenger class, fare, and survival status, and is commonly used for data analysis and machine learning practice.
+
